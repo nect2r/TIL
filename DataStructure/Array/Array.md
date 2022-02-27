@@ -10,4 +10,4 @@ data_lsit.add(10);
 data_lsit.add(20);
 data_lsit.add(30);
 ```
-!{ex_screenshot}(./img/자료구조_배열_1.png)
+<img src="./img/자료구조_배열_1.png">
